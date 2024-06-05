@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dc-reves-barbershop/static/css/main.da08dcaf.css",
+    "main.js": "/dc-reves-barbershop/static/js/main.a6bc9d98.js",
+    "static/media/profile2.jpg": "/dc-reves-barbershop/static/media/profile2.a5d5ce6e71ed609495ec.jpg",
+    "static/media/profile4.jpg": "/dc-reves-barbershop/static/media/profile4.80292ee44f8305167fb7.jpg",
+    "static/media/homeSplash.jpg": "/dc-reves-barbershop/static/media/homeSplash.21a7520aa948517d1530.jpg",
+    "static/media/profile1.jpg": "/dc-reves-barbershop/static/media/profile1.eee542e092a9e0962576.jpg",
+    "static/media/profile3.jpg": "/dc-reves-barbershop/static/media/profile3.d6cf224d9392ed568e6a.jpg",
+    "static/media/logo.jpg": "/dc-reves-barbershop/static/media/logo.af33216e31e8f5f9c59e.jpg",
+    "index.html": "/dc-reves-barbershop/index.html",
+    "main.da08dcaf.css.map": "/dc-reves-barbershop/static/css/main.da08dcaf.css.map",
+    "main.a6bc9d98.js.map": "/dc-reves-barbershop/static/js/main.a6bc9d98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da08dcaf.css",
+    "static/js/main.a6bc9d98.js"
+  ]
+}
