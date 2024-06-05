@@ -1,9 +1,10 @@
 import React from "react";
 
-export function Section({ title, summary, children, bg }) {
+export function SectionBarbers({ title, summary, children, bg, id }) {
   return (
     <section
       className={`w-full py-12 md:py-24 lg:py-32 bg-[${bg}] text-[#343434]`}
+      id={id}
     >
       <div className="container grid items-center justify-center gap-4 px-4 text-center md:px-6 lg:gap-10">
         <div className="space-y-3">
